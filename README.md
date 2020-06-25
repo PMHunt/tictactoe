@@ -2,7 +2,10 @@
 
 A [re-frame](https://github.com/day8/re-frame) application.
 
-This application takes my existing OXO Lisp app and turns it in to Re-frame
+This application takes my existing OXO Lisp/CLJ app and turns it in to Re-frame
+
+https://github.com/PMHunt/cl-studies/blob/master/oxo.lisp
+https://github.com/PMHunt/clojure-studies/blob/master/src/oxo.clj
 
 Reframe approach loosely based on Eric Normand's tictactoe tutorial, updated.
 
