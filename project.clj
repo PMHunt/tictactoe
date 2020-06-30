@@ -32,7 +32,7 @@
                                                :preloads [devtools.preload]}}
 
                                :devtools {:http-root "resources/public"
-                                          :http-port 8280
+                                          :http-port 8281
                                           }}}}
 
   :aliases {"dev"          ["with-profile" "dev" "do"

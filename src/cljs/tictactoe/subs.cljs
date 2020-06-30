@@ -16,4 +16,4 @@
 (re-frame/reg-sub
  ::cell
  (fn [db [_ x y]]
-   (reaction (get-in db [:board x y]))))
+   (get-in db [:board [x y]])))
